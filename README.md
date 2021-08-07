@@ -2,7 +2,7 @@
 
 this repository contains solutions to all the exercise within the Head First Go textbook. all solutions are done with consultation to solution manuals but rather independently.
 
-# solution 1: poolPuzzle.go
+# solution #1: poolPuzzle.go
 
 learning the import statement and Println() function that's linked to imported package, "fmt."
 
